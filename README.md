@@ -6,6 +6,7 @@
 ## Day One
 
 ## Day Two
+**- GIT helps you:**
 
 ### Day Three
 
