@@ -11,8 +11,11 @@
 [GitHub Pages](https://pages.github.com/)
 - Track changes
 - Prevent loss of data
-- Work wheen not online
+- Work when not online
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 ### Day Three
 
