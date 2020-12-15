@@ -20,14 +20,14 @@
 
 **HTML5 Layout**
 - HTML5 helps you divide up a page
-- Headers and footers show topa nd bottome of a page
+- Headers and footers show top and bottome of a page
 - Navagation nav shows primary blocks of info
 - Important information lives in articles
 - Asides relate to articles
 - Section groups related content
 - Figures contain visual info like images, videos and graphs
 
-Extra markup
+**Extra markup**
  - Doctypes tell browser what they are seeing
  - Comments helps coders document what they are doing
  - div groups text and elements
@@ -52,6 +52,6 @@ Extra markup
 **Big take away**
 -**Design is about communication**
 
-### Day Three
+## Day Three
 
 ###### The smallest heading
