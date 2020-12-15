@@ -10,7 +10,7 @@
 - Prevent loss of data
 - Work when not online
 
-**Structure**
+**Structure of a website**
 - HTML describes the page structure
 - Tags tell you about information between
 - Atrribute name telles you about the information
