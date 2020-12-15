@@ -10,8 +10,17 @@
 - Prevent loss of data
 - Work when not online
 
+**Structure**
+- HTML describes the page structure
+- Tags tell you about information between
+- Atrribute name telles you about the information
+- Body, head and title organizes the flow 
+- Content management is important
+- View source of other sites code
+
+
 **Process and Design**
-  What is important
+  What is important?
 - Know target market
 - Why they visit your sight
 - Motivation and goals
