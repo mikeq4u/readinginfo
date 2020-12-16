@@ -52,6 +52,9 @@
 **Big take away**
 -**Design is about communication**
 
+![GitHub Logo](/pictures/wireframe.png)
+Format: ![Alt Text](url)
+
 ## Day Three
 
 **What is CSS? Thinking inside the box**
