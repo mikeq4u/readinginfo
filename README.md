@@ -52,7 +52,7 @@
 **Big take away**
 -**Design is about communication**
 
-![GitHub Logo](/desktop/wireframe.png)
+![wireframe](/desktop/wireframe.png)
 Format: ![Alt Text](url)
 
 ## Day Three
