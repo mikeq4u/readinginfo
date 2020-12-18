@@ -2,6 +2,11 @@
 # Reading notes
 
 ## Day One
+**Markdowns**
+- A method to style text on the web
+- Headers, italics, bold, strikethrough, etc.
+- Link with bracket, command-k
+- Work when not online
 
 ## Day Two
 **GIT helps you:**
@@ -52,8 +57,6 @@
 **Big take away**
 -**Design is about communication**
 
-![wireframe](/desktop/wireframe.png)
-Format: ![Alt Text](url)
 
 ## Day Three
 
@@ -65,4 +68,33 @@ Format: ![Alt Text](url)
 - Rules are made wth selectors
 - Selectors allow you to target rules at elements
 
-###### The smallest heading
+**Dynamic Webpages**
+- Content HTML, presentation CSS and behavior Javascript
+- They are all text files
+- Use a HTML script to access jave script file
+- Javascript runs where it is found
+- Each instruction is called a statement
+- Comments explain what the code does
+- Info is stored in variables
+- Boolean is a funny word that is true or false
+
+## Day Four
+
+**Java Script is powerful**
+- Change content of a page in the browser
+- Script is insructions for a compter to reach a goal
+- Scripts think Recipe, handbooks and manuals
+- Define goal and break into smaller steps
+- Work out the flow..how each step is needed to complete the task
+- Expressions evluates results in a single value
+- Operators create a singe value from multiple
+- Do math in Javascript!!!!
+- Functions group statements together for aspeccific task
+- Give a function a name then write statement to complete a task ~~~~
+- Evaluate conditions with =
+- Logical operators allow you to compare results
+- Loops check a condition
+- A while loop runs as long as the condition is true
+
+
+
